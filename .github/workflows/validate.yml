@@ -1,0 +1,27 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - '*'         # matches every branch
+      - '!master'   # excludes master
+
+jobs:
+  validate:
+    name: Validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          registry-url: https://npm.pkg.github.com/
+          scope: '@goproperly'
+      - name: Install
+        run: npm ci
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Lint
+        run: npm run lint
+      - name: Test
+        run: npm run test
