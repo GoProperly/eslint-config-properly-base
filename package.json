@@ -17,7 +17,7 @@
     "url": "git+https://github.com/GoProperly/eslint-config-properly-base.git"
   },
   "author": "Gavin Sharp <gavin@goproperly.com>",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/GoProperly/eslint-config-properly-base/issues"
   },
