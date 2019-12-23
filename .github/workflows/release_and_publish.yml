@@ -24,11 +24,8 @@ jobs:
         run: npm run lint
       - name: Test
         run: npm run test
-      - name: Release
+      - name: Release & Publish
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        run: npm run release
-      - name: Publish
-        env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        run: npm publish
+        run: npm run release

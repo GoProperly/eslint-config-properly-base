@@ -7,10 +7,7 @@ module.exports = {
       ],
     }],
     '@semantic-release/changelog',
-    ['@semantic-release/npm', {
-      // We publish manually via a GitHub workflow
-      npmPublish: false,
-    }],
+    '@semantic-release/npm',
     '@semantic-release/git',
     '@semantic-release/github',
   ],
