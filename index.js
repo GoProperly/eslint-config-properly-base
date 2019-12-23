@@ -1,10 +1,10 @@
 module.exports = {
   parser: 'babel-eslint',
-  plugins: [
-    'jest',
-  ],
+  plugins: ['jest'],
   extends: [
-    'airbnb-base', 'plugin:jest/recommended', 'plugin:prettier/recommended'
+    'airbnb-base',
+    'plugin:jest/recommended',
+    'plugin:prettier/recommended',
   ],
   env: {
     node: true,
@@ -15,7 +15,10 @@ module.exports = {
     'prefer-destructuring': 'off',
 
     // Enfore a blank line before return statements
-    'padding-line-between-statements': ['error', { blankLine: 'always', prev: '*', next: 'return' }],
+    'padding-line-between-statements': [
+      'error',
+      { blankLine: 'always', prev: '*', next: 'return' },
+    ],
 
     // Allow underscore dangles for private members (e.g. this._foo)
     'no-underscore-dangle': ['error', { allowAfterThis: true }],
