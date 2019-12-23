@@ -4,7 +4,7 @@ module.exports = {
     'jest',
   ],
   extends: [
-    'airbnb-base', 'plugin:jest/recommended',
+    'airbnb-base', 'plugin:jest/recommended', 'plugin:prettier/recommended'
   ],
   env: {
     node: true,
