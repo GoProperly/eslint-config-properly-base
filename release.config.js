@@ -2,8 +2,8 @@ module.exports = {
   plugins: [
     ['@semantic-release/commit-analyzer', {
       releaseRules: [
-        // All commits produce patch releases
-        { release: 'patch' },
+        // All commits produce major releases (for v1)
+        { release: 'major' },
       ],
     }],
     '@semantic-release/changelog',
