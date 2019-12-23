@@ -1,32 +1,36 @@
 {
-  "name": "@goproperly/private-package",
+  "name": "@goproperly/eslint-config-properly-base",
   "version": "1.0.0",
-  "description": "",
+  "description": "Base ESLint config used by Properly",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "test": "echo \"No tests yet!\" && exit 0",
     "lint": "eslint .",
     "lint:fix": "eslint --fix . || true",
     "release": "semantic-release"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoProperly/eslint-config-properly-base.git"
+  },
+  "author": "Gavin Sharp <gavin@goproperly.com>",
   "license": "UNLICENSED",
-  "files": [],
-  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/GoProperly/eslint-config-properly-base/issues"
+  },
+  "homepage": "https://github.com/GoProperly/eslint-config-properly-base#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^3.0.6",
     "@semantic-release/git": "^7.0.18",
     "babel-eslint": "^10.0.3",
     "eslint": "^6.8.0",
-    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-jsx-a11y": "^6.2.3",
-    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-jest": "^23.1.1",
     "semantic-release": "^15.14.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GoProperly/js-private-package.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
