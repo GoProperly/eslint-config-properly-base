@@ -1,6 +1,6 @@
 {
   "name": "@goproperly/eslint-config-properly-base",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Base ESLint config used by Properly",
   "main": "index.js",
   "files": [
