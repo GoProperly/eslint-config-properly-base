@@ -9,9 +9,9 @@ Also includes:
 ## Installation
 
 1. Make sure your project is [configured to use the GitHub Package Registry](https://help.github.com/en/github/managing-packages-with-github-packages/configuring-npm-for-use-with-github-packages#installing-a-package)
-1. Install this package:
+1. Install this package along with `eslint` and `prettier`:
 
-    `npm install --save-dev @goproperly/eslint-config-properly-base`
+    `npm install --save-dev @goproperly/eslint-config-properly-base eslint prettier`
 1. Update your project's ESLint configuration to extend this base config:
     ```
     {
