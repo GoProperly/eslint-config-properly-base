@@ -12,9 +12,9 @@ Also includes:
 1. Install this package along with `eslint` and `prettier`:
 
     `npm install --save-dev @goproperly/eslint-config-properly-base eslint prettier`
-1. Update your project's ESLint configuration to extend this base config:
+1. Extend this config in your project's [ESLint configuration](https://eslint.org/docs/user-guide/configuring):
     ```
     {
-      "extends": ["@goproperly/eslint-config-properly-base"]
+      "extends": ["@goproperly/eslint-config-properly-react"]
     }
     ```
