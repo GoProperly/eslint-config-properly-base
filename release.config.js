@@ -4,8 +4,10 @@ module.exports = {
       '@semantic-release/commit-analyzer',
       {
         releaseRules: [
-          // All commits produce patch releases
+          // By default, generate a patch release
           { release: 'patch' },
+          // allow specifying e.g. 'chore(no-release)' to skip releasing
+          { scope: 'no-release', release: false },
         ],
       },
     ],
