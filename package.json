@@ -1,36 +1,32 @@
 {
   "name": "@goproperly/eslint-config-properly-base",
-  "version": "1.0.14",
   "description": "Base ESLint config used by Properly",
+  "license": "MIT",
+  "author": "Gavin Sharp <gavin@goproperly.com>",
+  "homepage": "https://github.com/GoProperly/eslint-config-properly-base#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoProperly/eslint-config-properly-base.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GoProperly/eslint-config-properly-base/issues"
+  },
+  "version": "1.0.14",
   "main": "index.js",
   "files": [
     "index.js"
   ],
   "scripts": {
-    "test": "echo \"No tests yet!\" && exit 0",
+    "commit": "git-cz",
     "lint": "eslint .",
     "lint:fix": "eslint --fix . || true",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "test": "echo \"No tests yet!\" && exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/GoProperly/eslint-config-properly-base.git"
-  },
-  "author": "Gavin Sharp <gavin@goproperly.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/GoProperly/eslint-config-properly-base/issues"
-  },
-  "homepage": "https://github.com/GoProperly/eslint-config-properly-base#readme",
-  "devDependencies": {
-    "@semantic-release/changelog": "^3.0.6",
-    "@semantic-release/git": "^7.0.18",
-    "eslint": "^6.8.0",
-    "prettier": "^1.19.1",
-    "semantic-release": "^15.14.0"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   },
   "dependencies": {
     "babel-eslint": "^10.0.3",
@@ -43,5 +39,25 @@
   "peerDependencies": {
     "eslint": "^6.8.0",
     "prettier": "^1.19.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.4",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@semantic-release/changelog": "^3.0.6",
+    "@semantic-release/git": "^7.0.18",
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2",
+    "eslint": "^6.8.0",
+    "husky": "^4.0.6",
+    "prettier": "^1.19.1",
+    "semantic-release": "^15.14.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   }
 }
