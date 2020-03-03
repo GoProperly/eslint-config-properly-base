@@ -15,6 +15,6 @@ Also includes:
 1. Extend this config in your project's [ESLint configuration](https://eslint.org/docs/user-guide/configuring):
     ```
     {
-      "extends": ["@goproperly/eslint-config-properly-react"]
+      "extends": ["@goproperly/eslint-config-properly-base"]
     }
     ```
