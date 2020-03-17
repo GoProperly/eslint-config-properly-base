@@ -1,6 +1,5 @@
 module.exports = {
   parser: 'babel-eslint',
-  plugins: ['jest'],
   extends: [
     'airbnb-base',
     'plugin:jest/recommended',
@@ -8,7 +7,6 @@ module.exports = {
   ],
   env: {
     node: true,
-    'jest/globals': true,
   },
   rules: {
     // not worth fixing all these IMO
