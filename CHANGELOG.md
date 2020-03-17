@@ -1,3 +1,9 @@
+### [1.0.16](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.0.15...v1.0.16) (2020-03-17)
+
+### Bug Fixes
+
+- avoid duplicating config from 'plugin:jest/recommended' ([f67fbc7](https://github.com/GoProperly/eslint-config-properly-base/commit/f67fbc7e834d59261a5e3f8763ec8c2cc13f63ad))
+
 ### [1.0.15](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.0.14...v1.0.15) (2020-02-01)
 
 ### Bug Fixes
