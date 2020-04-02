@@ -1,3 +1,9 @@
+## [1.1.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.0.16...v1.1.0) (2020-04-02)
+
+### Features
+
+- add custom devDep pattern for import/no-extraneous-dependencies ([c79b409](https://github.com/GoProperly/eslint-config-properly-base/commit/c79b409de03bcadde5613c6e342ed778ef7ffab7))
+
 ### [1.0.16](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.0.15...v1.0.16) (2020-03-17)
 
 ### Bug Fixes
