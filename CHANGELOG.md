@@ -1,3 +1,10 @@
+### [1.1.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.1.0...v1.1.1) (2020-04-10)
+
+
+### Bug Fixes
+
+* update prettier; also update peerdep ([c1cf232](https://github.com/GoProperly/eslint-config-properly-base/commit/c1cf232393944e9d23a3c0503016880c7cfe947a))
+
 ## [1.1.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.0.16...v1.1.0) (2020-04-02)
 
 ### Features
