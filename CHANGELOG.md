@@ -1,3 +1,10 @@
+### [1.2.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.0...v1.2.1) (2020-05-01)
+
+
+### Bug Fixes
+
+* empty commit to generate a new release ([32393e1](https://github.com/GoProperly/eslint-config-properly-base/commit/32393e1bed847b80ac587b0140c4b908c6b81e09))
+
 ## [1.2.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.1.1...v1.2.0) (2020-05-01)
 
 ### [1.1.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.1.0...v1.1.1) (2020-04-10)
