@@ -5,3 +5,7 @@ update_configs:
     update_schedule: "monthly"
     default_reviewers:
       - "gavinsharp"
+    commit_message:
+      prefix: "fix"
+      prefix_development: "chore"
+      include_scope: true
