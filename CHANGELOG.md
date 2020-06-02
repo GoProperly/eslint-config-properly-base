@@ -1,3 +1,10 @@
+### [1.2.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.1...v1.2.2) (2020-06-02)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-jest from 23.8.2 to 23.13.2 ([f32c9b4](https://github.com/GoProperly/eslint-config-properly-base/commit/f32c9b4b569d82ed8894f0ead43f6fe9ac09a864))
+
 ### [1.2.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.0...v1.2.1) (2020-05-01)
 
 
