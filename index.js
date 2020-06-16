@@ -30,6 +30,7 @@ module.exports = {
           'stories/**', // Storybook
           '**/setupTests.js', // CRA Jest setup
           '**/*.config.js', // Config files
+          'build/**', // Build/deploy tooling
           // The rest of these are copied from eslint-config-airbnb-base:
           // https://github.com/airbnb/javascript/blob/0375265cbd43635f8062615995a6a86f22fd0fc2/packages/eslint-config-airbnb-base/rules/imports.js#L71
           'test/**',
