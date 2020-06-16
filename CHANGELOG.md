@@ -1,3 +1,10 @@
+### [1.2.3](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.2...v1.2.3) (2020-06-16)
+
+
+### Bug Fixes
+
+* treat build/** as "dev" code ([7f24f02](https://github.com/GoProperly/eslint-config-properly-base/commit/7f24f028e503ec0020d9613a39789ea211744a64))
+
 ### [1.2.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.1...v1.2.2) (2020-06-02)
 
 
