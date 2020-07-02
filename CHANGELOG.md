@@ -1,3 +1,10 @@
+### [1.2.6](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.5...v1.2.6) (2020-07-02)
+
+
+### Bug Fixes
+
+* **peerdeps:** add ESLint 7 to peerdeps ([4b9d883](https://github.com/GoProperly/eslint-config-properly-base/commit/4b9d883ac4fe60acd2e309797113cf4e4a399c06))
+
 ### [1.2.5](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.4...v1.2.5) (2020-07-01)
 
 
