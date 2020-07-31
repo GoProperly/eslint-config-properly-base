@@ -1,3 +1,11 @@
+### [1.2.7](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.6...v1.2.7) (2020-07-31)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm from 6.14.5 to 6.14.7 ([e745e32](https://github.com/GoProperly/eslint-config-properly-base/commit/e745e32e91cb6e0842d3266ac14b5b625448467e))
+* **deps:** bump eslint-plugin-jest from 23.17.1 to 23.20.0 ([18b299c](https://github.com/GoProperly/eslint-config-properly-base/commit/18b299cbb66c5cd85627436f1005e9c1f1a632bb))
+
 ### [1.2.6](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.5...v1.2.6) (2020-07-02)
 
 
