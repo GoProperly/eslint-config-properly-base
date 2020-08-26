@@ -1,3 +1,10 @@
+### [1.2.8](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.7...v1.2.8) (2020-08-26)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump lodash from 4.17.15 to 4.17.20 ([e8b6b57](https://github.com/GoProperly/eslint-config-properly-base/commit/e8b6b57d423e104f50e5493c42b12099bd4bd02c))
+
 ### [1.2.7](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.6...v1.2.7) (2020-07-31)
 
 
