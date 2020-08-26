@@ -11,7 +11,7 @@
   "bugs": {
     "url": "https://github.com/GoProperly/eslint-config-properly-base/issues"
   },
-  "version": "1.2.7",
+  "version": "1.2.8",
   "main": "index.js",
   "files": [
     "index.js"
@@ -49,7 +49,7 @@
     "cz-conventional-changelog": "^3.2.1",
     "eslint": "^7.7.0",
     "husky": "^4.2.5",
-    "lint-staged": "^10.2.12",
+    "lint-staged": "^10.2.13",
     "prettier": "^2.1.1",
     "semantic-release": "^17.1.1"
   },
