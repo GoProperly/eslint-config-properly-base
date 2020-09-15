@@ -1,3 +1,11 @@
+### [1.2.10](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.9...v1.2.10) (2020-09-15)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump node-fetch from 2.6.0 to 2.6.1 ([cbdc6cf](https://github.com/GoProperly/eslint-config-properly-base/commit/cbdc6cf487e3344767071bd6157854099f79a0bc))
+* **deps:** bump eslint-plugin-jest from 23.20.0 to 24.0.1 ([009e83e](https://github.com/GoProperly/eslint-config-properly-base/commit/009e83e67597c1a492f52120eec3b48ca3389f3c))
+
 ### [1.2.9](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.8...v1.2.9) (2020-08-26)
 
 
