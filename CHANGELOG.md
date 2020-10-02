@@ -1,3 +1,12 @@
+### [1.2.11](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.10...v1.2.11) (2020-10-02)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-prettier from 6.11.0 to 6.12.0 ([29cb1ce](https://github.com/GoProperly/eslint-config-properly-base/commit/29cb1cec88d14a0d0ce0ab24f11869f2fc583335))
+* **deps:** bump eslint-plugin-import from 2.22.0 to 2.22.1 ([66e0fc4](https://github.com/GoProperly/eslint-config-properly-base/commit/66e0fc4e0bc3240b1bcd04c020539ff5d63ff49f))
+* **deps:** bump eslint-plugin-jest from 24.0.1 to 24.0.2 ([20a8601](https://github.com/GoProperly/eslint-config-properly-base/commit/20a8601b1fdebdfbaf3883111f080b6f37a3901c))
+
 ### [1.2.10](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.9...v1.2.10) (2020-09-15)
 
 
