@@ -1,3 +1,10 @@
+### [1.2.12](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.11...v1.2.12) (2020-10-02)
+
+
+### Bug Fixes
+
+* **deps:** fresh install to update/optimize indirect dependencies ([912fa76](https://github.com/GoProperly/eslint-config-properly-base/commit/912fa7650a2790d409ff36e9c361bf1b71b321b6))
+
 ### [1.2.11](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.10...v1.2.11) (2020-10-02)
 
 
