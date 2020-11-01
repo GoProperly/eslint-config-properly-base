@@ -1,3 +1,12 @@
+### [1.2.13](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.12...v1.2.13) (2020-11-01)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump npm-user-validate from 1.0.0 to 1.0.1 ([5283090](https://github.com/GoProperly/eslint-config-properly-base/commit/528309062042430269819ee674c4b9e9d92db3a9))
+* **deps:** bump eslint-config-prettier from 6.12.0 to 6.15.0 ([d5331d8](https://github.com/GoProperly/eslint-config-properly-base/commit/d5331d8a8b943b48ba6e2b1662b13bf7904139f0))
+* **deps:** bump eslint-plugin-jest from 24.0.2 to 24.1.0 ([4e9c20e](https://github.com/GoProperly/eslint-config-properly-base/commit/4e9c20e4e94bdf33389db5984ba42a7bfcbf7afd))
+
 ### [1.2.12](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.11...v1.2.12) (2020-10-02)
 
 
