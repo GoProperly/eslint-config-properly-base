@@ -1,3 +1,11 @@
+### [1.2.14](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.13...v1.2.14) (2020-12-01)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-config-airbnb-base from 14.2.0 to 14.2.1 ([556f9d4](https://github.com/GoProperly/eslint-config-properly-base/commit/556f9d4f289dbcd54ac11ac258e968522d3a102c))
+* **deps:** bump eslint-plugin-jest from 24.1.0 to 24.1.3 ([1ab65d6](https://github.com/GoProperly/eslint-config-properly-base/commit/1ab65d67818bb0aac7e5b0ada2097414a48e474f))
+
 ### [1.2.13](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.12...v1.2.13) (2020-11-01)
 
 
