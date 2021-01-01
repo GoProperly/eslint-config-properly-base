@@ -1,3 +1,10 @@
+### [1.2.16](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.15...v1.2.16) (2021-01-01)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump ini from 1.3.5 to 1.3.8 ([f20f749](https://github.com/GoProperly/eslint-config-properly-base/commit/f20f749c54803b2ca12f679f19f53a21daf12e06))
+
 ### [1.2.15](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.14...v1.2.15) (2020-12-22)
 
 
