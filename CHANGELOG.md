@@ -1,3 +1,10 @@
+### [1.2.17](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.16...v1.2.17) (2021-02-01)
+
+
+### Bug Fixes
+
+* **deps:** bump eslint-plugin-prettier from 3.3.0 to 3.3.1 ([a1f3a90](https://github.com/GoProperly/eslint-config-properly-base/commit/a1f3a90adc569659d4b1c273ae3879c3ee7d25a0))
+
 ### [1.2.16](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.15...v1.2.16) (2021-01-01)
 
 
