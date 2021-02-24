@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.18...v1.3.0) (2021-02-24)
+
+
+### Features
+
+* disable `import/prefer-default-export` ([cc32f67](https://github.com/GoProperly/eslint-config-properly-base/commit/cc32f67ef9fbf69a4fb86c4474e92fb30977ceff))
+
 ### [1.2.18](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.17...v1.2.18) (2021-02-01)
 
 
