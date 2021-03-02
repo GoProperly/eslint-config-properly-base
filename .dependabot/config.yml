@@ -3,8 +3,6 @@ update_configs:
   - package_manager: "javascript"
     directory: "/"
     update_schedule: "monthly"
-    default_reviewers:
-      - "gavinsharp"
     commit_message:
       prefix: "fix"
       prefix_development: "chore"
