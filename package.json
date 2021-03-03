@@ -2,7 +2,7 @@
   "name": "@goproperly/eslint-config-properly-base",
   "description": "Base ESLint config used by Properly",
   "license": "MIT",
-  "author": "Gavin Sharp <gavin@goproperly.com>",
+  "author": "Properly",
   "homepage": "https://github.com/GoProperly/eslint-config-properly-base#readme",
   "repository": {
     "type": "git",
