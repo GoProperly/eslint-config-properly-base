@@ -1,3 +1,14 @@
+### [1.3.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.3.0...v1.3.1) (2021-06-09)
+
+
+### Bug Fixes
+
+* **deps:** [security] bump handlebars from 4.7.6 to 4.7.7 ([6b7bc22](https://github.com/GoProperly/eslint-config-properly-base/commit/6b7bc22825d5d974cc87b162cc12bf989a75ae52))
+* **deps:** [security] bump hosted-git-info from 2.8.8 to 2.8.9 ([1c205b1](https://github.com/GoProperly/eslint-config-properly-base/commit/1c205b150fea8d0bf26fb5d1a0563049d9cc4477))
+* **deps:** [security] bump lodash from 4.17.20 to 4.17.21 ([a287a44](https://github.com/GoProperly/eslint-config-properly-base/commit/a287a4478f7754a29e60b03a65d287a1d062fff8))
+* **deps:** [security] bump ssri from 6.0.1 to 6.0.2 ([2ff8e10](https://github.com/GoProperly/eslint-config-properly-base/commit/2ff8e1002bcccdbdc0240641dfa439c8bab90976))
+* **deps:** [security] bump y18n from 4.0.0 to 4.0.3 ([41b7822](https://github.com/GoProperly/eslint-config-properly-base/commit/41b7822c794baa43b564f047c086febe8c1e9bda))
+
 ## [1.3.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.2.18...v1.3.0) (2021-02-24)
 
 
