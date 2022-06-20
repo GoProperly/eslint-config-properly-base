@@ -3,6 +3,7 @@ module.exports = {
   extends: [
     'airbnb-base',
     'plugin:jest/recommended',
+    'plugin:jest-formatting/recommended',
     'plugin:prettier/recommended',
   ],
   env: {
@@ -20,6 +21,9 @@ module.exports = {
 
     // Allow underscore dangles for private members (e.g. this._foo)
     'no-underscore-dangle': ['error', { allowAfterThis: true }],
+
+    // Prefer it() over test(), unless outside a describe() block
+    'jest/consistent-test-it': 'error',
 
     'import/no-extraneous-dependencies': [
       'error',
