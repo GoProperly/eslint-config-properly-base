@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.3.1...v1.4.0) (2022-06-20)
+
+
+### Features
+
+* add jest-formatting plugin for jest test consistency ([81f2dcd](https://github.com/GoProperly/eslint-config-properly-base/commit/81f2dcdcacb9f8662dbfab79412895ff19ca0bcd))
+
 ### [1.3.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.3.0...v1.3.1) (2021-06-09)
 
 
