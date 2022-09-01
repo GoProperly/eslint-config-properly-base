@@ -19,6 +19,9 @@ module.exports = {
       { blankLine: 'always', prev: '*', next: 'return' },
     ],
 
+    // Ensure control structures use curly braces rather than inline for single statements
+    curly: 'error',
+
     // Allow underscore dangles for private members (e.g. this._foo)
     'no-underscore-dangle': ['error', { allowAfterThis: true }],
 
