@@ -1,3 +1,10 @@
+### [1.5.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.5.0...v1.5.1) (2022-09-02)
+
+
+### Bug Fixes
+
+* expand curly rules to "all", previously "multiline" from airbnb ([9ec6d39](https://github.com/GoProperly/eslint-config-properly-base/commit/9ec6d39ca701d879a303b8bfebde3f80476dd47e))
+
 ## [1.5.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.4.0...v1.5.0) (2022-09-02)
 
 
