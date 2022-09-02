@@ -20,7 +20,7 @@ module.exports = {
     ],
 
     // Ensure control structures use curly braces rather than inline for single statements
-    curly: 'error',
+    curly: ['error', 'all'], // multiline is the default from airbnb
 
     // Allow underscore dangles for private members (e.g. this._foo)
     'no-underscore-dangle': ['error', { allowAfterThis: true }],
