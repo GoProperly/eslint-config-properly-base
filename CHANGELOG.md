@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.4.0...v1.5.0) (2022-09-02)
+
+
+### Features
+
+* add "curly" rule enforcing curly braces ([27e3842](https://github.com/GoProperly/eslint-config-properly-base/commit/27e3842d6142d9ebc64f6b4a4166169823f29468))
+
 ## [1.4.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.3.1...v1.4.0) (2022-06-20)
 
 
