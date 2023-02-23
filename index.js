@@ -30,6 +30,7 @@ module.exports = {
 
     // Prefer const foo = () => {...} over function foo() {...} (default: "expression")
     'func-style': 'error',
+    'func-names': ['error', 'always', { generators: 'as-needed' }],
 
     'import/no-extraneous-dependencies': [
       'error',
