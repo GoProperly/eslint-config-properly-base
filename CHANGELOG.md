@@ -1,3 +1,10 @@
+### [1.6.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.0...v1.6.1) (2023-02-23)
+
+
+### Bug Fixes
+
+* prevent func-names from enforcing names on generators, conflicts with func-style ([c748a7e](https://github.com/GoProperly/eslint-config-properly-base/commit/c748a7e77af17d3ad585406b73d1443a9f0009e2))
+
 ## [1.6.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.5.1...v1.6.0) (2023-02-23)
 
 
