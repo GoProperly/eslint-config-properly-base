@@ -28,6 +28,9 @@ module.exports = {
     // Prefer it() over test(), unless outside a describe() block
     'jest/consistent-test-it': 'error',
 
+    // Prefer const foo = () => {...} over function foo() {...} (default: "expression")
+    'func-style': 'error',
+
     'import/no-extraneous-dependencies': [
       'error',
       {
