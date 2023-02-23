@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.5.1...v1.6.0) (2023-02-23)
+
+
+### Features
+
+* add func-style rule ([398eafb](https://github.com/GoProperly/eslint-config-properly-base/commit/398eafbf6ac37b1094b1cffb2a556330b0668462))
+
 ### [1.5.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.5.0...v1.5.1) (2022-09-02)
 
 
