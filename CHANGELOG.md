@@ -1,3 +1,10 @@
+### [1.6.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.1...v1.6.2) (2023-03-07)
+
+
+### Bug Fixes
+
+* do not require extensions in import paths for js and ts files ([ffc16d3](https://github.com/GoProperly/eslint-config-properly-base/commit/ffc16d3d093a05e75c454f5d164d8ef251734b65))
+
 ### [1.6.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.0...v1.6.1) (2023-02-23)
 
 
