@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.7.0...v1.7.1) (2023-03-31)
+
+
+### Bug Fixes
+
+* move babel eslint-parser back into regular dependencies ([9bb7bd0](https://github.com/GoProperly/eslint-config-properly-base/commit/9bb7bd09d83b247216e6f61c4f4bbaa80f11a09b))
+
 ## [1.7.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.2...v1.7.0) (2023-03-31)
 
 
