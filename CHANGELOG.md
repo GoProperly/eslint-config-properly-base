@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.2...v1.7.0) (2023-03-31)
+
+
+### Features
+
+* update eslint to v8 and other dependencies to match ([d58f1aa](https://github.com/GoProperly/eslint-config-properly-base/commit/d58f1aaa8768e3b2af23f840e23d566310633de1))
+
 ### [1.6.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.6.1...v1.6.2) (2023-03-07)
 
 
