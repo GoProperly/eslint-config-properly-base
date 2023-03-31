@@ -8,7 +8,7 @@ module.exports = {
   // rule.
   settings: {
     jest: {
-      version: 26,
+      version: 29,
     },
   },
 };
