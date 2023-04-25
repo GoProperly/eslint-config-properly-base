@@ -16,10 +16,6 @@
   "files": [
     "index.js"
   ],
-  "engines": {
-    "node": "16.x",
-    "npm": "8.x"
-  },
   "scripts": {
     "commit": "git-cz",
     "lint": "eslint .",
