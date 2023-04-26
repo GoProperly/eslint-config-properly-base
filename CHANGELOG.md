@@ -1,3 +1,10 @@
+## [1.7.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.7.1...v1.7.2) (2023-04-26)
+
+
+### Bug Fixes
+
+* remove node and npm constraints from package.json ([a4d1431](https://github.com/GoProperly/eslint-config-properly-base/commit/a4d1431e3a2134aab1f0514ae4a00ae46dc3625b))
+
 ## [1.7.1](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.7.0...v1.7.1) (2023-03-31)
 
 
