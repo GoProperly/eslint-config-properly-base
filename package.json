@@ -16,10 +16,6 @@
   "files": [
     "index.js"
   ],
-  "engines": {
-    "node": "16.x",
-    "npm": "8.x"
-  },
   "scripts": {
     "commit": "git-cz",
     "lint": "eslint .",
@@ -54,10 +50,10 @@
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.0.0",
-    "husky": "^4.3.8",
-    "lint-staged": "^10.5.3",
-    "prettier": "^2.2.1",
-    "semantic-release": "^19.0.5"
+    "husky": "^8.0.3",
+    "lint-staged": "^13.2.1",
+    "prettier": "^2.8.8",
+    "semantic-release": "^21.0.1"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
