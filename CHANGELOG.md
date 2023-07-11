@@ -1,3 +1,10 @@
+## [1.8.0](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.7.2...v1.8.0) (2023-07-11)
+
+
+### Features
+
+* update to prettier v3 ([9a068e7](https://github.com/GoProperly/eslint-config-properly-base/commit/9a068e7f1190036e874c3d8fef1c5e01f64a65d9))
+
 ## [1.7.2](https://github.com/GoProperly/eslint-config-properly-base/compare/v1.7.1...v1.7.2) (2023-04-26)
 
 
